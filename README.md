@@ -7,8 +7,8 @@ DBA Dash is a tool for SQL Server DBAs to assist with daily checks, performance 
 
 ---
 
-![Twitter Follow](https://img.shields.io/twitter/follow/wiseDATAman?style=social)
-![GitHub followers](https://img.shields.io/github/followers/DavidWiseman?style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCjACQ6uAfYPQJ2zydZxnAKg?style=social)
-![Website](https://img.shields.io/website?label=wisedataman.com&url=https%3A%2F%2Fwisedataman.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/wiseDATAman?style=social)](https://twitter.com/WiseDATAman)
+[![GitHub followers](https://img.shields.io/github/followers/DavidWiseman?style=social)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FDavidWiseman)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCjACQ6uAfYPQJ2zydZxnAKg?style=social)](https://www.youtube.com/channel/UCjACQ6uAfYPQJ2zydZxnAKg)
+[![Website](https://img.shields.io/website?label=wisedataman.com&url=https%3A%2F%2Fwisedataman.com)](https://wisedataman.com/)
 
