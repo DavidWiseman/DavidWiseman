@@ -1,9 +1,13 @@
-### David Wiseman
+# David Wiseman
 
 Hi, I'm a SQL Server DBA and enjoy writing T-SQL code and performance tuning.  I created a monitoring tool for SQL Server called [DBA Dash](https://github.com/trimble-oss/dba-dash) that is my main open source contribution.  I also created some Active Directory tools called Password Control and Bulk AD Users early in my career.
 
 ## [DBA Dash](https://github.com/trimble-oss/dba-dash)
 DBA Dash is a tool for SQL Server DBAs to assist with daily checks, performance monitoring and change tracking.  MIT License.
+
+---
+
+[![David Wiseman's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidWiseman&count_private=true&theme=github_dark&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
