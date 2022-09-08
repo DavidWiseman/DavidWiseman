@@ -3,6 +3,9 @@
 Hi, I'm a SQL Server DBA and enjoy writing T-SQL code and performance tuning.  I created a monitoring tool for SQL Server called [DBA Dash](https://github.com/trimble-oss/dba-dash) that is my main open source contribution.  I also created some Active Directory tools called Password Control and Bulk AD Users early in my career.
 
 ## [DBA Dash](https://github.com/trimble-oss/dba-dash)
+[![GitHub release (latest by date)](https://img.shields.io/github/downloads/trimble-oss/dba-dash/total?style=for-the-badge)](https://github.com/trimble-oss/dba-dash/releases)
+[![GitHub Repo stars](https://img.shields.io/github/stars/trimble-oss/dba-dash?style=for-the-badge)](https://github.com/trimble-oss/dba-dash/stargazers)
+
 DBA Dash is a tool for SQL Server DBAs to assist with daily checks, performance monitoring and change tracking.  MIT License.
 
 ---
