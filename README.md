@@ -8,6 +8,8 @@ Hi, I'm a SQL Server DBA and enjoy writing T-SQL code and performance tuning.  I
 
 DBA Dash is a tool for SQL Server DBAs to assist with daily checks, performance monitoring and change tracking.  MIT License.
 
+[![Star History Chart](https://api.star-history.com/svg?repos=trimble-oss/dba-dash&type=Date)](https://star-history.com/#trimble-oss/dba-dash&Date)
+
 ---
 
 [![David Wiseman's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidWiseman&count_private=true&theme=github_dark&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
