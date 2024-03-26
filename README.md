@@ -11,6 +11,13 @@ DBA Dash is a tool for SQL Server DBAs to assist with daily checks, performance 
 [![Star History Chart](https://api.star-history.com/svg?repos=trimble-oss/dba-dash&type=Date)](https://star-history.com/#trimble-oss/dba-dash&Date)
 
 ---
+## 🆕 [SQL Server Log Shipping Service](https://github.com/trimble-oss/sql-log-shipping-service)
+[![GitHub release (latest by date)](https://img.shields.io/github/downloads/trimble-oss/sql-log-shipping-service/total?style=for-the-badge)](https://github.com/trimble-oss/sql-log-shipping-service/releases)
+[![GitHub Repo stars](https://img.shields.io/github/stars/trimble-oss/sql-log-shipping-service?style=for-the-badge)](https://github.com/trimble-oss/sql-log-shipping-service/stargazers)
+
+A SQL Server log shipping solution that works at scale (*thousands of databases*).  It supports log shipping from a UNC path or from Azure blob.
+
+---
 
 [![David Wiseman's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidWiseman&count_private=true&theme=github_dark&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
